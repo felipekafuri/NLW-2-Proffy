@@ -7,6 +7,6 @@
 
 ## Aulas
 
-- Rota para criar uma aula;
-- Listar aulas;
-  - Filtrar por materia, dia da semana e horário;
+☑ Rota para criar uma aula; 
+☑ Listar aulas;
+  ☑ Filtrar por materia, dia da semana e horário;
